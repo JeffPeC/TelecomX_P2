@@ -1,4 +1,4 @@
-# TelecomX_P2
+# TelecomX_P1-2
 Segundo Challenge TelecomX
 # TelecomX_P2LATAM: Análisis y Predicción de Evasión de Clientes (Churn)
 
